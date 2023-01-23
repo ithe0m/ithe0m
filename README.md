@@ -21,14 +21,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">
-<img src="https://drive.google.com/file/d/1Aej6F-kcbkh62SL9Jtk0uaE0gs1omMAe/view?usp=share_link" align="center" height="150" width="150" />
-</div>  
-
-
-</td><td valign="top" width="33%">
 
  Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
@@ -110,16 +102,13 @@
 <a href="https://instagram.com/mohammadsaeedzafari" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
+  
   
 
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ihe0m&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+
 
 
 ## Recent Blog Posts  
@@ -127,11 +116,6 @@
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ithe0m&&style=flat-square" align="center" />
@@ -148,6 +132,3 @@ If things goes well, this section should automatically be replaced by a list of 
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
